@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6fe1bb5f10b24d2b9ae03f5da18bb92e" Name="Diagram1">
+        <EntityTypeShape EntityType="bdAvtoLider2Model.Cars" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.Clients" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.Configuration" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.LoginHistory" Width="1.5" PointX="10.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.sysdiagrams" Width="1.5" PointX="2.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.TypesOfCover" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.TypesOfRims" Width="1.5" PointX="0.75" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.TypesOfTires" Width="1.5" PointX="0.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.UserRoles" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdAvtoLider2Model.Users" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="bdAvtoLider2Model.FK_Configuration_Cars" ManuallyRouted="false" />
+        <AssociationConnector Association="bdAvtoLider2Model.FK_Configuration_Clients" ManuallyRouted="false" />
+        <AssociationConnector Association="bdAvtoLider2Model.FK_Configuration_TypesOfCover" ManuallyRouted="false" />
+        <AssociationConnector Association="bdAvtoLider2Model.FK_Configuration_TypesOfRims" ManuallyRouted="false" />
+        <AssociationConnector Association="bdAvtoLider2Model.FK_Configuration_TypesOfTires" ManuallyRouted="false" />
+        <AssociationConnector Association="bdAvtoLider2Model.FK_LoginHistory_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="bdAvtoLider2Model.FK_Users_UserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
