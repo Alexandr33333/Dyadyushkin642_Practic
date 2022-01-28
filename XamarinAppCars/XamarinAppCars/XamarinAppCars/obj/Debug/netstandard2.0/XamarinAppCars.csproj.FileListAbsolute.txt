@@ -1,0 +1,14 @@
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\XamarinAppCars.csprojAssemblyReference.cache
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\XamarinAppCars.AssemblyInfoInputs.cache
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\XamarinAppCars.AssemblyInfo.cs
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\XamarinAppCars.csproj.CoreCompileInputs.cache
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\bin\Debug\netstandard2.0\XamarinAppCars.deps.json
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\bin\Debug\netstandard2.0\XamarinAppCars.dll
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\bin\Debug\netstandard2.0\ref\XamarinAppCars.dll
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\bin\Debug\netstandard2.0\XamarinAppCars.pdb
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\XamlC.stamp
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\XamarinAppCars.dll
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\ref\XamarinAppCars.dll
+E:\College\Practic\XamarinAppCars\XamarinAppCars\XamarinAppCars\obj\Debug\netstandard2.0\XamarinAppCars.pdb

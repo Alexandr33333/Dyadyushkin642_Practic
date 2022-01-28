@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinAppCars.MainPage">
+
+    <StackLayout>
+        <Label Text="Введите марку автомобиля"></Label>
+        <Entry x:Name="entryBrand"></Entry>
+        <Label Text="Введите модель автомобиля" Margin="0, 10, 0, 0"></Label>
+        <Entry x:Name="entryModel"   MaxLength="51"></Entry>
+        <Label Text="Введите цену автомобиля" Margin="0, 10, 0, 0"></Label>
+        <Entry x:Name="entryPrice" ></Entry>
+        <Label Text="Введите количество автомобилей" Margin="0, 10, 0, 0"></Label>
+        <Entry x:Name="entryAmount" ></Entry>
+
+        <Button Margin="10" Background="black" TextColor="White" x:Name="btnAdd" Clicked="btnAdd_Clicked" Text="Добавить"></Button>
+    </StackLayout>
+
+</ContentPage>
